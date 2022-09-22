@@ -4,8 +4,8 @@
 - 😄 Pronome: Ela/Dela
 
 <div>
-<img width="500px"
+<img height="180px"
 src="https://github-readme-stats.vercel.app/api?username=BrunaDeCarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22" />
-<img height="197px" 
+<img height="180px" 
 src= "https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDeCarvalho&layout=compact&langs_count=16&theme=dracula" />
 </div>
