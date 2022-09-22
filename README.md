@@ -23,5 +23,10 @@ src= "https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDeCarv
 
 ##
 
-<div>
-<a href = "https://www.linkedin.com/in/bruna-carvalho-4a18a023a/"> <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div style="display: inline-block> <br>
+<a href = "https://www.linkedin.com/in/bruna-carvalho-4a18a023a/"> 
+<img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ 
+<a href="mailto:brunacarvalho260698@gmail.com"> 
+<img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</div>
