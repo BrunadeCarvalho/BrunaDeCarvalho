@@ -4,7 +4,8 @@
 - 😄 Pronome: Ela/Dela
 
 <div>
-  <a href="https://www.linkedin.com/in/bruna-carvalho-4a18a023a/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BrunaDeCarvalho&repo=github-readme-stats" />
-  <img height: "180em" src= />
+<img heigth="200em"
+src="https://github-readme-stats.vercel.app/api?username=BrunaDeCarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22" />
+<img heigth="180em" width="400em"
+src= "https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDeCarvalho&layout=compact&langs_count=16&theme=dracula" />
 </div>
