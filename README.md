@@ -6,6 +6,6 @@
 <div>
 <img width="500px"
 src="https://github-readme-stats.vercel.app/api?username=BrunaDeCarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true%22" />
-<img width="300px" 
+<img height="300px" 
 src= "https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDeCarvalho&layout=compact&langs_count=16&theme=dracula" />
 </div>
