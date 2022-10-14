@@ -11,7 +11,7 @@ src= "https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDeCarv
 </div>
 
 <div style="display: inline-block"><br>
-  <img src="https://skillicons.dev/icons?i=react,css,html,js,styledcomponents,vscode,&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,css,html,js,ts,styledcomponents,vscode,&perline=10" />
  
 </div>
 
