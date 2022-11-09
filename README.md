@@ -1,6 +1,6 @@
 ### Olá, eu sou a Bruna de Carvalho ✌️
 
-- 🌱 Estudando TypeScript
+- 🌱 Estudando TypeScript e Angular
 - 😄 Pronome: Ela/Dela
 
 <div>
